@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://splendid-bubblegum-1c4114.netlify.app/](https://splendid-bubblegum-1c4114.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://grvsharma1994.github.io/](https://grvsharma1994.github.io/)
 
 - 💬 Ask me about **JavaScript,HTML,CSS,Reactjs,Nodejs,MongoDB**
 
