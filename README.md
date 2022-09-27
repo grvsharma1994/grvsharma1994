@@ -33,17 +33,17 @@
 
 <h1>⚡Nordstorm.com clone</h1> 
 <p>This is a clone of e-commerce website named as Nordstorm.It is a leading fashion retailer offering compelling clothing, shoes and accessories for men, women and kids.Pages: Home Page,Products Listing Page,Product Details Page,Payment Page,Signup Page.
-Technology used are HTML,CSS &Javascript.<p>
+Technology used are HTML,CSS & Javascript.<p>
 <h2>​Github Link- https://github.com/mr-ashu/Unit-3-Assingment</h2>
 <h2>Deployed link- https://comfy-cheesecake-0f2b94.netlify.app/</h2>
 
 <h1>⚡You Tube App</h1>
-<p>This project will let you design the pixel art.Let your creativity flow and convert them to images.Technology used are HTML, CSS & Javascript.<p>
+<p>This project will let you design the pixel art.Let your creativity flow and convert them to images.Technology used are HTML,CSS & Javascript.<p>
 <h2>​Github Link- https://github.com/grvsharma1994/YoutubeApp</h2>
 <h2>Deployed link- https://willowy-kelpie-4e6c56.netlify.app/</h1>
 
 <h1>⚡Weather App</h1>
-<p> This app fetches the user's current location using GeoLocation API, and then uses the location data to fetch the current weather data via the Open Weather Map API. User can search weather data of any location by just typing the location name.Technology used are HTML, CSS & Javascript.</p>
+<p> This app fetches the user's current location using GeoLocation API, and then uses the location data to fetch the current weather data via the Open Weather Map API. User can search weather data of any location by just typing the location name.Technology used are HTML,CSS & Javascript.</p>
 <h2>​Github Link- https://github.com/grvsharma1994/weather-Forecast</h2>
 <h2>Deployed link- https://astonishing-narwhal-4d4609.netlify.app/</h2>
 
