@@ -39,7 +39,7 @@ Technology used are HTML,CSS &Javascript.<p>
 
 <h1>⚡You Tube App</h1>
 <p>This project will let you design the pixel art.Let your creativity flow and convert them to images.Technology used are HTML, CSS & Javascript.<p>
-<h2>​Github Link- https: https://github.com/grvsharma1994/YoutubeApp</h2>
+<h2>​Github Link- https://github.com/grvsharma1994/YoutubeApp</h2>
 <h2>Deployed link- https://willowy-kelpie-4e6c56.netlify.app/</h1>
 
 <h1>⚡Weather App</h1>
