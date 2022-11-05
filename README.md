@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/gaurav-sharma-693236201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-sharma-693236201/" height="30" width="40" /></a>
 </p>
 
-<h1> 👨‍💻 All of my projects are available at (https://grvsharma1994.github.io/)</h1>
+<h1> 👨‍💻 All of my projects are available at My Portfolio (https://grvsharma1994.github.io/)</h1>
 
 <h1>⚡Boat-lifestyle.com  clone</h1>
 <p>This is a clone of e-commerce website named as Boat-lifestyle.Users can buy Headphones,Earphones,Earbuds,Speakers and Smart watches on this platform.It has a signup page, a login page and a completely functional payment page.Technology used are HTML,CSS & Javascript.<p>
